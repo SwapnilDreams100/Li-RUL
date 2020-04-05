@@ -1,0 +1,14 @@
+GITHUB: https://github.com/SwapnilDreams100/Li-RUL
+
+
+Run case-1_new.py for case-1 experiments
+Run case-2_new.py for case-2 experiments
+
+Use main() for simple inference
+and main(run = True) for new PSO run(may take a few hours)
+
+Descriptions:
+kernels.py - implementation of svr kernels
+plotting_utils - plotting fns
+params.json - has the params in json format
+figs- where charts are stored 
